@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @agadhia17
 
-- 🌱 I’m currently learning how to code
+- 🌱 I’m currently an SDSU Computer Engineering student!
 
 
 
